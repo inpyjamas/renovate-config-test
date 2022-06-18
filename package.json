@@ -13,6 +13,6 @@
     "express": "2.5.11"
   },
   "devDependencies": {
-    "jest": "12.1.1"
+    "jest": "28.1.1"
   }
 }
